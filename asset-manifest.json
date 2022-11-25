@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adminDashboard/static/css/main.3319ac5e.css",
+    "main.js": "/adminDashboard/static/js/main.64eeb720.js",
+    "static/media/perfil.jpeg": "/adminDashboard/static/media/perfil.589ec81420e3a8710a82.jpeg",
+    "index.html": "/adminDashboard/index.html",
+    "main.3319ac5e.css.map": "/adminDashboard/static/css/main.3319ac5e.css.map",
+    "main.64eeb720.js.map": "/adminDashboard/static/js/main.64eeb720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3319ac5e.css",
+    "static/js/main.64eeb720.js"
+  ]
+}
